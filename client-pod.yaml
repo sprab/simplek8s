@@ -9,4 +9,4 @@ spec:
     - name: client
       image: sprab/multi-worker
       ports:
-        - containerPort: 9998
+        - containerPort: 9999
