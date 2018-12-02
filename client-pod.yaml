@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: client
-      image: sprab/multi-client
+      image: sprab/multi-worker
       ports:
-        - containerPort: 3000
+        - containerPort: 9999
